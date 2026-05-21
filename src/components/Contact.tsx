@@ -75,7 +75,7 @@ const Contact = () => {
             <div className="space-y-6">
               {/* Email */}
               <a
-                href="mailto:amaan.shaikh@example.com"
+                href="mailto:amaanshaikh9991@gmail.com"
                 className="group flex items-start gap-4 p-5 rounded-2xl glass glass-hover transition-all duration-300"
               >
                 <div className="w-12 h-12 rounded-xl bg-violet-500/10 flex items-center justify-center shrink-0 group-hover:bg-violet-500/20 transition-colors">
@@ -84,7 +84,7 @@ const Contact = () => {
                 <div>
                   <h3 className="text-sm text-gray-500 mb-1">Email</h3>
                   <p className="text-gray-300 group-hover:text-white transition-colors text-sm break-all">
-                    amaan.shaikh@example.com
+                    amaan.shaikh9991@gmail.com
                   </p>
                 </div>
               </a>
