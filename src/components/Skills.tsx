@@ -1,10 +1,10 @@
 import { useState, useEffect, useRef } from 'react';
 
 const skills = [
-  { name: 'HTML', level: 90, status: 'completed', color: 'from-orange-500 to-red-500' },
-  { name: 'CSS', level: 85, status: 'completed', color: 'from-blue-500 to-cyan-500' },
-  { name: 'C Language', level: 75, status: 'completed', color: 'from-gray-400 to-gray-600' },
-  { name: 'Python', level: 80, status: 'completed', color: 'from-yellow-500 to-green-500' },
+  { name: 'HTML', level: 100, status: 'completed', color: 'from-orange-500 to-red-500' },
+  { name: 'CSS', level: 100, status: 'completed', color: 'from-blue-500 to-cyan-500' },
+  { name: 'C Language', level: 100, status: 'completed', color: 'from-gray-400 to-gray-600' },
+  { name: 'Python', level: 100, status: 'completed', color: 'from-yellow-500 to-green-500' },
   { name: 'JavaScript', level: 45, status: 'learning', color: 'from-yellow-400 to-orange-500' },
   { name: 'Data Science', level: 30, status: 'learning', color: 'from-pink-500 to-violet-500' },
   { name: 'Japanese', level: 25, status: 'learning', color: 'from-rose-400 to-pink-500' },
