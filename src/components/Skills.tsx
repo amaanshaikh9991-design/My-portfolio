@@ -5,9 +5,11 @@ const skills = [
   { name: 'CSS', level: 100, status: 'completed', color: 'from-blue-500 to-cyan-500' },
   { name: 'C Language', level: 100, status: 'completed', color: 'from-gray-400 to-gray-600' },
   { name: 'Python', level: 100, status: 'completed', color: 'from-yellow-500 to-green-500' },
+  { name: 'MySQL', level: 100, status: 'completed', color: 'from-rose-400 to-green-500' },
   { name: 'JavaScript', level: 45, status: 'learning', color: 'from-yellow-400 to-orange-500' },
   { name: 'Data Science', level: 30, status: 'learning', color: 'from-pink-500 to-violet-500' },
   { name: 'Japanese', level: 25, status: 'learning', color: 'from-rose-400 to-pink-500' },
+  { name: 'Node.js', level: 20, status: 'learning', color: 'from-green-400 to-pink-500' },
 ];
 
 const Skills = () => {

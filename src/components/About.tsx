@@ -59,7 +59,7 @@ const About = () => {
                 <span className="text-violet-400 font-semibold">
                   Shaikh Amaan
                 </span>
-                , a first-year engineering student at
+                , a first-year Computer Engineering student at
                 <span className="text-cyan-400 font-semibold">
                   {' '}
                   Fr. Conceicao Rodrigues College of Engineering (Fr. CRCE)
@@ -75,7 +75,7 @@ const About = () => {
               </p>
 
               <p>
-                I’m excited to grow, explore new opportunities, and build a
+                I am excited to grow, explore new opportunities, and build a
                 successful career in technology.
               </p>
             </div>
